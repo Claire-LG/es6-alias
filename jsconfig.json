@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "rootDir": ".",
+    "paths": {
+      "@config": ["src/config"],
+      "@src/*": ["src/*"]
+    }
+  }
+}
